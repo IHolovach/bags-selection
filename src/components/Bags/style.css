@@ -1,0 +1,10 @@
+.bags {
+  display: flex;
+  flex-direction: column;
+  width: 38%;
+  margin: 0 auto;
+}
+
+.total-price {
+  font-weight: bold;
+}

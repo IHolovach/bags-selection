@@ -1,0 +1,582 @@
+{
+  "itinerary": [
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 6.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 13.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 90.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 35.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "PSL",
+      "ancillaryServiceType": "PersonalItem",
+      "descriptionLocalized": "Personal Item",
+      "group": "BG",
+      "type": "CY",
+      "typeDescriptionLocalized": "Carry On Hand Baggage",
+      "subgroupType": "PIT",
+      "subgroupTypeDescriptionLocalized": "Personal Item",
+      "id": "ZmuPjFX2NCFKpMSPnhr/HA==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 7.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 15.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 115.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 45.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "0L5",
+      "ancillaryServiceType": "CarryOnBag",
+      "descriptionLocalized": "Carry On",
+      "group": "BG",
+      "type": "CY",
+      "typeDescriptionLocalized": "Carry On Hand Baggage",
+      "id": "0tPX6Gm+Xc7wjtM2DM7FGA==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 7.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 15.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 105.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 41.0
+        }
+      ],
+      "status": "Chargeable",
+      "subcodeUniform": "0L5",
+      "ancillaryServiceType": "CarryOnBag",
+      "descriptionLocalized": "Carry On",
+      "group": "BG",
+      "type": "CY",
+      "typeDescriptionLocalized": "Carry On Hand Baggage",
+      "id": "SYlSeTslQCBxkdioh3ubVg==",
+      "price": {
+        "amountValue": 35.06,
+        "currency": "USD",
+        "origAmountValue": null,
+        "origCurrency": null
+      },
+      "priceTypeIndicator": "Undefined",
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 2,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 23.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 51.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "0CD",
+      "ancillaryServiceType": "CheckedBag",
+      "descriptionLocalized": "Checked Baggage",
+      "group": "BG",
+      "type": "CB",
+      "typeDescriptionLocalized": "Checked Baggage",
+      "id": "bTm/gUSR+D07CKxxO3DHYw==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "order": 2,
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 23.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 50.0
+        }
+      ],
+      "status": "Chargeable",
+      "subcodeUniform": "0CE",
+      "ancillaryServiceType": "CheckedBag",
+      "descriptionLocalized": "3rd checked bag",
+      "group": "BG",
+      "type": "CB",
+      "typeDescriptionLocalized": "Checked Baggage",
+      "subgroupType": "B3",
+      "subgroupTypeDescriptionLocalized": "Third Bag",
+      "id": "i6Wm5LL1QRDmOAMEBPav/w==",
+      "price": {
+        "amountValue": 122.68,
+        "currency": "USD",
+        "origAmountValue": null,
+        "origCurrency": null
+      },
+      "priceTypeIndicator": "Undefined",
+      "order": 3,
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 23.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 50.0
+        }
+      ],
+      "status": "Chargeable",
+      "subcodeUniform": "0CF",
+      "ancillaryServiceType": "CheckedBag",
+      "descriptionLocalized": "4th checked bag",
+      "group": "BG",
+      "type": "CB",
+      "typeDescriptionLocalized": "Checked Baggage",
+      "id": "oLVF4Mphd3SehY+H9vEGTA==",
+      "price": {
+        "amountValue": 184.02,
+        "currency": "USD",
+        "origAmountValue": null,
+        "origCurrency": null
+      },
+      "priceTypeIndicator": "Undefined",
+      "order": 4,
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 23.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 50.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 300.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 118.0
+        }
+      ],
+      "status": "Chargeable",
+      "subcodeUniform": "0CG",
+      "ancillaryServiceType": "CheckedBag",
+      "descriptionLocalized": "5th checked bag",
+      "group": "BG",
+      "type": "CB",
+      "typeDescriptionLocalized": "Checked Baggage",
+      "id": "+F/8Pp5NFNqZRYR3WKuS1A==",
+      "price": {
+        "amountValue": 122.68,
+        "currency": "USD",
+        "origAmountValue": null,
+        "origCurrency": null
+      },
+      "priceTypeIndicator": "Undefined",
+      "order": 5,
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 32.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 70.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 158.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 63.0
+        }
+      ],
+      "status": "Chargeable",
+      "subcodeUniform": "0DG",
+      "ancillaryServiceType": "ExcessCheckedBag",
+      "descriptionLocalized": "WEIGHT SYSTEM CHARGE",
+      "group": "BG",
+      "type": "XS",
+      "typeDescriptionLocalized": "Baggage Excess",
+      "subgroupType": "WT",
+      "subgroupTypeDescriptionLocalized": "Weight System Charge",
+      "id": "jTOW08cCBd2IVnod9uAJpw==",
+      "price": {
+        "amountValue": 94.2,
+        "currency": "USD",
+        "origAmountValue": null,
+        "origCurrency": null
+      },
+      "priceTypeIndicator": "Undefined",
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "status": "Chargeable",
+      "subcodeUniform": "0EC",
+      "ancillaryServiceType": "UNDEFINED",
+      "descriptionLocalized": "BICYCLE",
+      "group": "BG",
+      "type": "SP",
+      "typeDescriptionLocalized": "Sporting Equipment",
+      "subgroupType": "BI",
+      "subgroupTypeDescriptionLocalized": "Bicycle",
+      "id": "xfKloLDMd5grEtPNWI6T6Q==",
+      "price": {
+        "amountValue": 122.68,
+        "currency": "USD",
+        "origAmountValue": null,
+        "origCurrency": null
+      },
+      "priceTypeIndicator": "Undefined",
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "status": "Chargeable",
+      "subcodeUniform": "0ED",
+      "ancillaryServiceType": "UNDEFINED",
+      "descriptionLocalized": "SPORTING FIREARMS",
+      "group": "BG",
+      "type": "SP",
+      "typeDescriptionLocalized": "Sporting Equipment",
+      "subgroupType": "FA",
+      "subgroupTypeDescriptionLocalized": "Sporting Firearms",
+      "id": "OPVwBcxqXmpjerB9/c9ctg==",
+      "price": {
+        "amountValue": 109.54,
+        "currency": "USD",
+        "origAmountValue": null,
+        "origCurrency": null
+      },
+      "priceTypeIndicator": "Undefined",
+      "legs": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 23.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 50.0
+        }
+      ],
+      "status": "Chargeable",
+      "subcodeUniform": "0PJ",
+      "ancillaryServiceType": "UNDEFINED",
+      "descriptionLocalized": "POLE VAULT EQPMT UP TO 23KG",
+      "group": "BG",
+      "type": "SP",
+      "typeDescriptionLocalized": "Sporting Equipment",
+      "subgroupType": "PV",
+      "subgroupTypeDescriptionLocalized": "Pole Vault Equipment",
+      "id": "QSFvBMnlk8ga5U5p4eo49A==",
+      "price": {
+        "amountValue": 474.0,
+        "currency": "USD",
+        "origAmountValue": null,
+        "origCurrency": null
+      },
+      "priceTypeIndicator": "Undefined",
+      "legs": [0, 1]
+    }
+  ],
+  "legs": [
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 6.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 13.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 90.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 35.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "PSL",
+      "ancillaryServiceType": "PersonalItem",
+      "descriptionLocalized": "Personal Item",
+      "group": "BG",
+      "type": "CY",
+      "typeDescriptionLocalized": "Carry On Hand Baggage",
+      "subgroupType": "PIT",
+      "subgroupTypeDescriptionLocalized": "Personal Item",
+      "id": "q3/6kCuVxUIHEWzM5+QgYw==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "legs": [0],
+      "sectors": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 6.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 13.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 90.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 35.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "PSL",
+      "ancillaryServiceType": "PersonalItem",
+      "descriptionLocalized": "Personal Item",
+      "group": "BG",
+      "type": "CY",
+      "typeDescriptionLocalized": "Carry On Hand Baggage",
+      "subgroupType": "PIT",
+      "subgroupTypeDescriptionLocalized": "Personal Item",
+      "id": "eWGt+tTFsAFMdRoKHoMaxw==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "legs": [1],
+      "sectors": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 7.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 15.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 115.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 45.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "0L5",
+      "ancillaryServiceType": "CarryOnBag",
+      "descriptionLocalized": "Carry On",
+      "group": "BG",
+      "type": "CY",
+      "typeDescriptionLocalized": "Carry On Hand Baggage",
+      "id": "dY03VsvcLzkpM59XLxZRbQ==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "legs": [0],
+      "sectors": [0, 1]
+    },
+    {
+      "pieces": 1,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 7.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 15.0
+        },
+        {
+          "type": "Length",
+          "measure": "lcm",
+          "unit": 115.0
+        },
+        {
+          "type": "Length",
+          "measure": "li",
+          "unit": 45.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "0L5",
+      "ancillaryServiceType": "CarryOnBag",
+      "descriptionLocalized": "Carry On",
+      "group": "BG",
+      "type": "CY",
+      "typeDescriptionLocalized": "Carry On Hand Baggage",
+      "id": "t1yTQqkXviPgOfUicbqMCA==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "legs": [1],
+      "sectors": [0, 1]
+    },
+    {
+      "pieces": 2,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 23.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 51.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "0CD",
+      "ancillaryServiceType": "CheckedBag",
+      "descriptionLocalized": "Checked Baggage",
+      "group": "BG",
+      "type": "CB",
+      "typeDescriptionLocalized": "Checked Baggage",
+      "id": "F+/UJOhl5X2MyIkpN/z0Xg==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "order": 2,
+      "legs": [0],
+      "sectors": [0, 1]
+    },
+    {
+      "pieces": 2,
+      "measurements": [
+        {
+          "type": "Weight",
+          "measure": "kg",
+          "unit": 23.0
+        },
+        {
+          "type": "Weight",
+          "measure": "lb",
+          "unit": 51.0
+        }
+      ],
+      "status": "Included",
+      "subcodeUniform": "0CD",
+      "ancillaryServiceType": "CheckedBag",
+      "descriptionLocalized": "Checked Baggage",
+      "group": "BG",
+      "type": "CB",
+      "typeDescriptionLocalized": "Checked Baggage",
+      "id": "ehbiZR1pjoKektv+vvh/eg==",
+      "price": null,
+      "priceTypeIndicator": "Undefined",
+      "order": 2,
+      "legs": [1],
+      "sectors": [0, 1]
+    }
+  ]
+}

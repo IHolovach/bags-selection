@@ -1,0 +1,11 @@
+.bag {
+  display: flex;
+}
+
+.bag-info {
+  margin: 2px 8px;
+}
+
+.bag-regular {
+  padding-left: 20px;
+}
